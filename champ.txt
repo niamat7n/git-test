@@ -14,12 +14,3 @@ twelve
 thirteen
 
 // some text added by user 1
-
-eighteen
-nineteen
-twenty
-
-// added by user2
-fourteen
-fifteen
-sixteen
