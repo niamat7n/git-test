@@ -4,13 +4,3 @@ two
 three
 four
 five
-six
-seven
-eight
-nine
-ten
-eleven
-twelve
-thirteen
-
-// some text added by user 1
